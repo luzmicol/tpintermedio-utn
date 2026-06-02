@@ -18,3 +18,5 @@ Aplicar HTML semántico.
 Utilizar Flexbox para la distribución de elementos.
 Mantener un código limpio y organizado.
 
+Ver proyecto:
+https://luzmicol.github.io/tpintermedio-utn/
